@@ -2,3 +2,7 @@
 0.0.0.0 control-zoo-default.tvinteractive.tv
 0.0.0.0 control2.tvinteractive.tv
 0.0.0.0 control.tvinteractive.tv
+
+# Snapchat Ads and Analytics
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 ads-interface.sc-cdn.net
