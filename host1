@@ -3,6 +3,9 @@
 0.0.0.0 control2.tvinteractive.tv
 0.0.0.0 control.tvinteractive.tv
 
+#Microsoft
+0.0.0.0 dns.msftncsi.com #Microsoft Windows Network Connectivity Status Indicator tests.
+
 # Snapchat Ads and Analytics
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 ads-interface.sc-cdn.net
