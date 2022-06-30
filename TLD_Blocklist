@@ -9,3 +9,4 @@ page$
 \.top$
 \.pw$
 \.tk$
+^stat(s|istics)?[0-9]*[_.-]
